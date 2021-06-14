@@ -250,11 +250,17 @@ body{
 .Blog h1:hover{
 	margin-top: 20px;
 }
-.Blog video{
-	width: 50%;
+.Blog img{
+	width: 20%;
 	height: 200px;
 	margin-left: 250px;
 	margin-top: -50px;
+}
+.Blog_center img{
+	width: 20%;
+	height: 200px;
+	margin-left: 480px;
+	margin-top: -900px;
 }
 .Blog p{
 	width: 20%;
